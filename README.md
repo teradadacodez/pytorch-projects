@@ -1,1 +1,1 @@
-PyTorch intro and a project on make_moons dataset for visualizing neural network
+PyTorch intro and a project on various datasets for visualizing neural networks !
